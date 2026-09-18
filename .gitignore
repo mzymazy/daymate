@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Runtime data
+.daymate/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

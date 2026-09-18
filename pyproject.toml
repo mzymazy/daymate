@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "daymate"
+version = "0.1.0"
+description = "你电脑里住着一个陪你过完每一天的AI伙伴"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "typer>=0.12",
+    "requests>=2.31",
+    "watchdog>=4.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+windows = ["pywin32>=306"]
+
+[project.scripts]
+daymate = "daymate.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
