@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 7d6c7eb1722e648bcd4b478377c393f0_4a93aa56b38611f1a003525400cd780f
+    ReservedCode1: zinbRHAbNpqBLgxzVwx6HZwhPeqYUnQVNLprgCmnYjHYTokk2tEfLSmE3VBt840ycbxeDs6AmHxTdOdbSq+11VOER3cL9PgTtn7R1mQreuTq040Nzeh+nB/PZdrikEUtnJOVg2F0wCYbcJLOHLovhRDHemQ5VHx2JinB5yAjgHLSOkB5NZuz9YvP1xM=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 7d6c7eb1722e648bcd4b478377c393f0_4a93aa56b38611f1a003525400cd780f
+    ReservedCode2: zinbRHAbNpqBLgxzVwx6HZwhPeqYUnQVNLprgCmnYjHYTokk2tEfLSmE3VBt840ycbxeDs6AmHxTdOdbSq+11VOER3cL9PgTtn7R1mQreuTq040Nzeh+nB/PZdrikEUtnJOVg2F0wCYbcJLOHLovhRDHemQ5VHx2JinB5yAjgHLSOkB5NZuz9YvP1xM=
+---
+
 # Daymate · 一天的伙伴
 
 > 你电脑里住着一个陪你过完每一天的 AI 伙伴。
@@ -81,6 +92,13 @@ Python 3.10+ · Typer · SQLite · Watchdog · Ollama / OpenAI 兼容 API
 - [ ] 周报 / 月度回顾生成
 - [ ] 多端同步（可选）
 
+## 关于作者
+
+作者是一位 40 岁的媒体人，自学编程——没有科班背景，没有报过培训班，靠的是犟劲和一个个深夜。
+
+如果你也觉得自己"太老了学不动"，这个项目就是反例。Daymate 能存在，恰恰因为有人决定在 40 岁开始学，而不是因为科班出身。
+
 ## License
 
 MIT
+*（内容由AI生成，仅供参考）*

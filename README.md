@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 7d6c7eb1722e648bcd4b478377c393f0_49232c4db38611f185dc525400de85a5
+    ReservedCode1: w/wyIGqorZtmY1weiQsTlfs3ld8cVc2fLEaABfSZ/ShqcMpx+H+jKqR9Y6yn5mm9BLoUEdRobLaDZtrkYL5H1mehhTTxnnAXyeGb386gXnhV7se05CLRX7XQqb/UPpWqWXzHfJ/0mUkdSkQkPkvhzpDmmiLAPMY/k3sC4LlCru2ZTTOuvFerIJAWJ04=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 7d6c7eb1722e648bcd4b478377c393f0_49232c4db38611f185dc525400de85a5
+    ReservedCode2: w/wyIGqorZtmY1weiQsTlfs3ld8cVc2fLEaABfSZ/ShqcMpx+H+jKqR9Y6yn5mm9BLoUEdRobLaDZtrkYL5H1mehhTTxnnAXyeGb386gXnhV7se05CLRX7XQqb/UPpWqWXzHfJ/0mUkdSkQkPkvhzpDmmiLAPMY/k3sC4LlCru2ZTTOuvFerIJAWJ04=
+---
+
 # Daymate — The AI companion that lives in your computer
 
 > Your computer remembers everything you did today. Daymate reads those traces and writes you a story only the two of you understand.
@@ -89,6 +100,13 @@ Python 3.10+ · Typer · SQLite · Watchdog · Ollama / OpenAI-compatible API
 - [ ] Weekly & monthly retrospectives
 - [ ] Optional multi-device sync
 
+## About the author
+
+Built by a 40-year-old media professional who taught himself to code — no CS degree, no bootcamp, just stubbornness and late nights.
+
+If you've ever felt *too old to start*, this project is the counterargument. Daymate exists because someone decided to learn at 40, not despite it.
+
 ## License
 
 MIT
+*（内容由AI生成，仅供参考）*
