@@ -22,6 +22,10 @@ Daymate is writing (37 commands, 12 file edits)...
 Your diary is ready: ~/daymate-diary/2026-09-17.md
 ```
 
+<p align="center">
+  <img src="docs/demo.png" alt="Daymate in action" width="760">
+</p>
+
 ## Why
 
 You've probably seen this before:

@@ -21,6 +21,10 @@ $ daymate analyze
 今日日记已写好: ~/daymate-diary/2026-09-17.md
 ```
 
+<p align="center">
+  <img src="docs/demo.png" alt="Daymate 演示" width="760">
+</p>
+
 ## 它是什么
 
 Daymate 读取你电脑上已有的数字痕迹——终端命令、最近修改的文件——在本地聚合成一小段摘要，再交给大模型，把"今天"写成一篇 300-500 字的短文。
