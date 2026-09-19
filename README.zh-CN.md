@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 7d6c7eb1722e648bcd4b478377c393f0_4a93aa56b38611f1a003525400cd780f
-    ReservedCode1: zinbRHAbNpqBLgxzVwx6HZwhPeqYUnQVNLprgCmnYjHYTokk2tEfLSmE3VBt840ycbxeDs6AmHxTdOdbSq+11VOER3cL9PgTtn7R1mQreuTq040Nzeh+nB/PZdrikEUtnJOVg2F0wCYbcJLOHLovhRDHemQ5VHx2JinB5yAjgHLSOkB5NZuz9YvP1xM=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 7d6c7eb1722e648bcd4b478377c393f0_4a93aa56b38611f1a003525400cd780f
-    ReservedCode2: zinbRHAbNpqBLgxzVwx6HZwhPeqYUnQVNLprgCmnYjHYTokk2tEfLSmE3VBt840ycbxeDs6AmHxTdOdbSq+11VOER3cL9PgTtn7R1mQreuTq040Nzeh+nB/PZdrikEUtnJOVg2F0wCYbcJLOHLovhRDHemQ5VHx2JinB5yAjgHLSOkB5NZuz9YvP1xM=
----
-
 # Daymate · 一天的伙伴
 
 > 你电脑里住着一个陪你过完每一天的 AI 伙伴。
